@@ -21,7 +21,7 @@ order_id	quantity	item_name	choice_description	item_price
 10	1	Chicken Bowl	[Tomatillo Yellow Chili Salsa, [Fajita Vegetables(Roasted Sweet Pepper, Cabbage), Black Beans, Sour Cream, Cheese, Lettuce]]	$8.75 
 10	1	Chips and Guacamole	NULL	$4.45 
 11	1	Barbacoa Burrito	[[Fresh Tomato Salsa (Mild), Tomatillo-Green Chili Salsa (Medium), Tomatillo-Yellow Chili Salsa (Hot)], [Rice, Cheese, Sour Cream, Lettuce]]	$8.99 
-11	1	Nantucket Nectar	[Pomegranate Cherry]	$3.39 
+11	1	Nantucket Nectar	[Pomegranate Passion]	$3.39 
 12	1	Chicken Burrito	[[Tomatillo-Green Chili Salsa (Medium), Tomatillo-Yellow Chili Salsa (Hot)], [Green Beans, Rice, Cheese, Sour Cream, Guacamole, Lettuce]]	$10.98 
 12	1	Izze	[Watermelon]	$3.39 
 13	1	Chips and Fresh Tomato Salsa	NULL	$2.39 
@@ -435,7 +435,7 @@ order_id	quantity	item_name	choice_description	item_price
 188	1	Brakens Bowl	[Tomatillo-Yellow Chili Salsa (Hot), [Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce]]	$8.99 
 188	1	Canned Soda	[Coca Cola]	$1.09 
 189	1	Tofu Burrito(Veggie)	[[Saute Chili Seafood Salsa (Medium), Fresh Tomato Salsa (Mild)], [Rice, Black Beans, Green Beans, Fajita Veggies, Guacamole, Lettuce]]	$10.98 
-189	1	Nantucket Nectar	[Pomegranate Cherry]	$3.39 
+189	1	Nantucket Nectar	[Pomegranate Passion]	$3.39 
 190	1	Steak Crispy Tacos	[[Saute Chili Seafood Salsa (Medium), Tomatillo-Green Chili Salsa (Medium)], [Rice, Black Beans, Cheese, Sour Cream]]	$8.99 
 190	1	Canned Soda	[Dr. Green-Pepper]	$1.09 
 191	1	Steak Burrito	[Tomatillo Green Chili Salsa, [Fajita Vegetables(Roasted Sweet Pepper, Cabbage), Rice, Cheese, Sour Cream, Lettuce]]	$9.25 
@@ -924,7 +924,7 @@ order_id	quantity	item_name	choice_description	item_price
 380	1	Bottled Water	NULL	$1.50 
 381	1	Chicken Soft Tacos	[Tomatillo-Yellow Chili Salsa (Hot), Cheese]	$8.49 
 381	1	Chicken Soft Tacos	[Tomatillo-Yellow Chili Salsa (Hot), Cheese]	$8.49 
-381	1	Nantucket Nectar	[Pomegranate Cherry]	$3.39 
+381	1	Nantucket Nectar	[Pomegranate Passion]	$3.39 
 382	1	Steak Bowl	[Fresh Tomato (Mild), [Lettuce, Black Beans, Rice, Cheese]]	$8.69 
 382	1	Chips and Guacamole	NULL	$3.89 
 383	1	Chicken Bowl	[Tomatillo Green Chili Salsa, [Rice, Cheese, Sour Cream, Lettuce]]	$8.75 
@@ -1354,7 +1354,7 @@ order_id	quantity	item_name	choice_description	item_price
 552	1	Steak Soft Tacos	[Tomatillo Green Chili Salsa, [Fajita Vegetables(Roasted Sweet Pepper, Cabbage), Black Beans, Cheese, Guacamole, Lettuce]]	$11.75 
 553	1	Steak Bowl	[[Tomatillo-Green Chili Salsa (Medium), Saute Chili Seafood Salsa (Medium)], [Rice, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.48 
 553	1	Side of Chips	NULL	$1.69 
-553	1	Nantucket Nectar	[Pomegranate Cherry]	$3.39 
+553	1	Nantucket Nectar	[Pomegranate Passion]	$3.39 
 554	1	Barbacoa Bowl	[Fresh Tomato Salsa, [Rice, Black Beans, Green Beans, Cheese, Sour Cream, Lettuce]]	$9.25 
 554	1	Chips and Saute Chili Seafood Salsa	NULL	$2.95 
 555	1	Brakens Bowl	[Tomatillo-Yellow Chili Salsa (Hot), [Black Beans, Rice, Cheese, Sour Cream, Lettuce]]	$8.99 
@@ -2428,7 +2428,7 @@ order_id	quantity	item_name	choice_description	item_price
 964	1	Chips and Guacamole	NULL	$4.45 
 964	1	Chicken Bowl	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole]]	$11.25 
 965	1	Chicken Bowl	[[Fresh Tomato Salsa (Mild), Saute Chili Seafood Salsa (Medium)], [Black Beans, Rice, Fajita Veggies, Lettuce]]	$8.49 
-965	1	Nantucket Nectar	[Pomegranate Cherry]	$3.39 
+965	1	Nantucket Nectar	[Pomegranate Passion]	$3.39 
 965	1	Chips and Fresh Tomato Salsa	NULL	$2.39 
 966	1	Steak Bowl	[Saute Chili Seafood Salsa, [Rice, Green Beans, Cheese, Sour Cream, Guacamole]]	$11.75 
 966	1	Chips	NULL	$2.15 

@@ -53,8 +53,8 @@ H06,山京,NULL,NULL
 H07,東京,NULL,NULL
 H08,林京,NULL,NULL
 H09,松寧,NULL,NULL
-H10,古亭,G05,平行轉乘
-H11,頂溪,O07,平行轉乘
+H10,古亭,Guting,G05,平行轉乘
+H11,頂溪,Dingxi,O07,平行轉乘
 H12,永安,Yongan,NULL,NULL
 H13,永和,Yonghe,NULL,NULL
 H14,景安,Jingan,O20,南北一層
@@ -67,15 +67,15 @@ H20,銅錫煉鐵,Makemetal,NULL,NULL
 H21,青門,Qingmen,NULL,NULL
 H22,黃門,Huangmen,NULL,NULL
 H23,橘門,Zumen,NULL,NULL
-H24,南港區公所,Nangang District Office,,
+H24,南港區公所,Nangang District Office,NULL,NULL
 H25,南港,Nangang,B24,南北一層
-O01,復興區公所,,NULL,NULL
+O01,復興區公所,Fuxing District Office,NULL,NULL
 O02,市政府,Taipei City Hall,NULL,NULL
 O03,西湖,Xihu,NULL,NULL
 O04,復興,Fuxing,NULL,NULL
 O05,忠孝復興,Zongxiao Fuxing,NULL,NULL
-O06,芳亭,G04,平行轉乘
-O07,頂溪,H11,平行轉乘
+O06,芳亭,Ventim,G04,平行轉乘
+O07,頂溪,Dingxi,H11,平行轉乘
 O08,十三張,Shisanchang,NULL,NULL
 O09,九張犁,Jiuzhangli,NULL,NULL
 O10,新店區公所,Xindiann District Office,B11,南北一層
@@ -85,7 +85,7 @@ O13,板橋,Banqiao,G14,南北一層
 O14,板新,Banxin,NULL,NULL
 O15,板翠,Bancui,NULL,NULL
 O16,萬華,Wanghua,B14,南北一層
-O17,松山機場,,NULL,NULL
+O17,松山機場,Songshan Airport,NULL,NULL
 O18,善導寺,Shandao Temple,NULL,NULL
 O19,山路寺,Shanlu Temple,NULL,NULL
 O20,景安,Jingan,H14,南北一層

@@ -1,0 +1,93 @@
+線和站號碼,站名,站名(English),轉乘站,轉乘方式
+G01,玉亭,Decree Jade Ridium(D.J.R.)Pavilion,NULL,NULL
+G02,青京,Qingjing,NULL,NULL
+G03,小人國,Lilliputian,NULL,NULL
+G04,芳亭,Ventim,O06,平行轉乘
+G05,古亭,Guting,H10,平行轉乘
+G06,西亭,Xiting,NULL,NULL
+G07,西門,Ximen,B10,平行轉乘
+G08,坪林,Pinlin,NULL,NULL
+G09,坪林紀念亭,Matsusaka-Caramen Decree(M.C.D) Memorial Pavilion,NULL,NULL
+G10,新店,Xindian,O11,南北一層
+G11,橘京,Zujing,NULL,NULL
+G12,黃京,Huangjing,NULL,NULL
+G13,土城,Tucheng,NULL,NULL
+G14,板橋,Banqiao,O13,南北一層
+G15,江子翠,Jiangzicui,NULL,NULL
+G16,新北醫院,New Taipei Hospital,NULL,NULL
+G17,三重,Sanchong,NULL,NULL
+G18,先嗇宮,Xianse Temple,H04,南北一層
+G19,北亭,Beiting,B06,南北一層
+G20,翠亭,Cuiting,NULL,NULL
+G21,馨亭,Wonderful Pavilion,NULL,NULL
+B01,松山,Songshan,NULL,NULL
+B02,松山區公所,Songshan District Office,NULL,NULL
+B03,三民,Sanmin,NULL,NULL
+B04,南京三民,Nanjing Sanmin,NULL,NULL
+B05,巨蛋,Arena,NULL,NULL
+B06,北亭,Beiting,G19,南北一層
+B07,松江南京,Songjiang Nanjing,H05,南北一層
+B08,北門,Beimen,NULL,NULL
+B09,小南門,Xiaonanmen,NULL,NULL
+B10,西門,Ximen,G07,平行轉乘
+B11,新店區公所,Xindiann District Office,O10,南北一層
+B12,七張,Qizhang,NULL,NULL
+B13,五張,Wuzhang,NULL,NULL
+B14,萬華,Wanghua,O16,南北一層
+B15,文德,Wende,NULL,NULL
+B16,葫洲,Huzou,NULL,NULL
+B17,大湖,Dahu,NULL,NULL
+B18,南京復興,Nanjing Fuxing,NULL,NULL
+B19,廣東,Guangdong,NULL,NULL
+B20,麟光,Linguang,NULL,NULL
+B21,辛亥,Xinhai,NULL,NULL
+B22,丁酉,Dingyiou,NULL,NULL
+B23,木柵,Muzha,NULL,NULL
+B24,南港,Nangang,H25,南北一層
+H01,迴龍,NULL,NULL
+H02,丹鳳,NULL,NULL
+H03,新莊,NULL,NULL
+H04,先嗇宮,G18,南北一層
+H05,松江南京,B07,南北一層
+H06,山京,NULL,NULL
+H07,東京,NULL,NULL
+H08,林京,NULL,NULL
+H09,松寧,NULL,NULL
+H10,古亭,G05,平行轉乘
+H11,頂溪,O07,平行轉乘
+H12,永安,Yongan,NULL,NULL
+H13,永和,Yonghe,NULL,NULL
+H14,景安,Jingan,O20,南北一層
+H15,景京,Jingjing,NULL,NULL
+H16,景民,Jingmin,NULL,NULL
+H17,景門,Jingmen,NULL,NULL
+H18,景林,Jinglin,NULL,NULL
+H19,馨門,Wondgate,NULL,NULL
+H20,銅錫煉鐵,Makemetal,NULL,NULL
+H21,青門,Qingmen,NULL,NULL
+H22,黃門,Huangmen,NULL,NULL
+H23,橘門,Zumen,NULL,NULL
+H24,南港區公所,Nangang District Office,,
+H25,南港,Nangang,B24,南北一層
+O01,復興區公所,,NULL,NULL
+O02,市政府,Taipei City Hall,NULL,NULL
+O03,西湖,Xihu,NULL,NULL
+O04,復興,Fuxing,NULL,NULL
+O05,忠孝復興,Zongxiao Fuxing,NULL,NULL
+O06,芳亭,G04,平行轉乘
+O07,頂溪,H11,平行轉乘
+O08,十三張,Shisanchang,NULL,NULL
+O09,九張犁,Jiuzhangli,NULL,NULL
+O10,新店區公所,Xindiann District Office,B11,南北一層
+O11,新店,Xindian,G10,南北一層
+O12,海山,Haishan,NULL,NULL
+O13,板橋,Banqiao,G14,南北一層
+O14,板新,Banxin,NULL,NULL
+O15,板翠,Bancui,NULL,NULL
+O16,萬華,Wanghua,B14,南北一層
+O17,松山機場,,NULL,NULL
+O18,善導寺,Shandao Temple,NULL,NULL
+O19,山路寺,Shanlu Temple,NULL,NULL
+O20,景安,Jingan,H14,南北一層
+O21,頭前,Touqian,NULL,NULL
+O22,秀朗,Xiulang,NULL,NULL

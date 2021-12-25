@@ -1,0 +1,11 @@
+solar_system	chinese_name	temperature_celsius_lower	temperature_celsius_upper	moons
+Mercury	水星	-177	423	0
+Venus	金星	423	488	0
+Earth	地球	-88	58	1
+Mars	火星	-88	0	1
+Ventim	亭星	-130	54	19
+Jupiter	木星	-130	25	127
+Saturn	土星	-178	-130	150
+Uranus	天王星	-220	-200	0
+Neptune	海王星	-216	-200	18
+Pluto	冥王星	-246	-216	13

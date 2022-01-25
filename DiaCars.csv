@@ -1,252 +1,252 @@
 ,dia,displacement,weight,color,origin,car
-1,31.5,118,2090,yellow,,bmw 2-series
-2,26.5,220,2822,golden,,ford mustang
-3,26.0,100,2687,white,,mitsubishi zinger
-4,25.5,247,2518,silver,,toyota camry
-5,28.5,85,2354,yellow,,mitsubishi colt plus
-6,25.5,204,2315,yellow,,honda civic
-7,24.5,225,2769,blue,,ford focus
-8,27.0,95,2652,golden,,toyota alphard
-9,20.0,167,2666,silver,,bmw 2-series
-10,21.0,129,2606,white,,toyota wish
-11,29.5,129,2946,black,,bmw 2-series
-12,23.0,238,2353,yellow,,honda nsx
-13,27.0,85,2629,red,,nissan march
-14,23.5,140,2307,black,,audi r8
-15,22.5,159,2917,blue,,ford focus
-16,24.5,85,2176,black,,benz cls
-17,29.5,238,2429,silver,,toyota vios
-18,29.0,188,2518,silver,,toyota camry
-19,22.5,159,2899,red,,toyota camry
-20,31.0,146,2414,golden,,nissan livina
-21,24.0,161,2682,white,,benz glc
-22,28.5,202,2518,silver,,mazda cx-3
-23,23.0,146,2325,black,,honda hr-v
-24,31.5,88,2047,blue,,ford kuga
-25,20.5,109,2708,white,,ford focus active
-26,24.5,202,2732,black,,mazda 6
-27,27.0,129,2382,blue,,toyota wish
-28,26.0,84,2175,white,,honda accord
-29,20.0,247,2481,blue,,toyota sienta
-30,23.5,247,2406,silver,,ford focus active
-31,25.5,195,2822,silver,,nissan x-trail
-32,31.0,225,2572,red,,honda accord
-33,26.0,118,2430,red,,toyota wish
-34,24.0,84,2395,golden,,suzuki vitara
-35,28.5,161,2191,blue,,suzuki vitara
-36,30.0,159,2468,golden,,audi q3
-37,24.0,146,2746,blue,,ford kuga
-38,25.5,88,2338,silver,,nissan march
-39,26.0,152,2161,golden,,bmw 2-series
-40,21.0,159,2088,white,,toyota wish
-41,22.5,225,2224,yellow,,nissan grand livina
-42,20.0,242,2102,red,,mitsubishi zinger
-43,26.5,188,2454,yellow,,honda nsx
-44,23.0,188,2823,blue,,nissan x-trail
-45,23.5,193,2758,red,,honda odyssey
-46,31.5,204,2074,yellow,,benz glc
-47,23.5,167,2216,black,,honda civic
-48,31.5,159,2648,silver,,mazda cx-3
-49,20.0,242,2428,golden,,honda nsx
-50,21.0,220,2163,red,,ford kuga
-51,20.5,88,2881,golden,,toyota sienta
-52,27.0,167,2463,golden,,honda accord
-53,24.0,232,2384,black,,honda nsx
-54,23.0,220,2188,red,,ford kuga
-55,22.0,88,2958,black,,benz glc
-56,21.0,188,2293,black,,bmw 2-series
-57,29.0,85,2783,black,,toyota camry
-58,29.5,220,2114,yellow,,mitsubishi outlander
-59,24.0,140,2173,blue,,ford focus
-60,26.0,159,2085,white,,honda nsx
-61,20.5,188,2904,black,,honda accord
-62,27.0,88,2600,silver,,suzuki baleno
-63,22.0,250,2412,yellow,,nissan march
-64,29.5,202,2411,white,,audi r8
-65,20.5,167,2889,yellow,,audi r8
-66,20.5,95,2777,black,,mazda cx-3
-67,25.5,204,2747,golden,,mitsubishi colt plus
-68,30.0,88,2769,yellow,,nissan march
-69,22.0,84,2988,golden,,ford focus active
-70,22.5,129,2011,white,,toyota rav4
-71,26.0,250,2371,red,,mazda 3
-72,26.0,220,2760,golden,,toyota sienta
-73,20.0,250,2796,red,,toyota camry
-74,23.5,184,2014,silver,,audi r8
-75,29.5,100,2543,yellow,,mazda cx-3
-76,21.0,152,2937,silver,,honda civic
-77,27.5,118,2905,white,,nissan x-trail
-78,25.5,225,2051,blue,,ford kuga
-79,27.0,250,2938,silver,,audi r8
-80,20.0,129,2561,black,,mitsubishi colt plus
-81,21.0,93,2686,golden,,mitsubishi colt plus
-82,21.0,238,2066,black,,honda hr-v
-83,31.5,204,2139,white,,mazda cx-3
-84,27.5,88,2224,white,,toyota c-hr
-85,20.0,188,2849,silver,,toyota alphard
-86,27.0,146,2045,silver,,ford mustang
-87,20.5,88,2961,white,,mazda cx-3
-88,26.5,202,2292,white,,nissan grand livina
-89,23.0,161,2941,silver,,ford mustang
-90,28.5,100,2699,blue,,benz cls
-91,25.5,232,2990,white,,honda nsx
-92,25.5,146,2261,yellow,,mazda cx-3
-93,20.0,84,2115,white,,ford focus active
-94,23.5,93,2215,white,,toyota alphard
-95,27.0,184,2490,blue,,honda nsx
-96,29.0,88,2198,red,,toyota c-hr
-97,29.5,140,2713,blue,,mazda 3
-98,31.5,202,2019,yellow,,honda civic
-99,30.0,118,2092,golden,,nissan march
-100,27.5,238,2580,white,,ford focus active
-101,20.5,193,2613,red,,mazda cx-9
-102,23.5,93,2406,silver,,audi r8
-103,22.0,242,2486,yellow,,audi q3
-104,22.0,247,2305,yellow,,mazda 6
-105,21.0,202,2944,silver,,audi q3
-106,23.5,88,2925,white,,suzuki vitara
-107,23.0,118,2140,white,,mitsubishi zinger
-108,21.0,118,2520,blue,,ford kuga
-109,23.5,250,2302,silver,,mazda 3
-110,24.0,140,2441,golden,,mazda cx-3
-111,27.0,204,2202,red,,ford kuga
-112,30.0,100,2383,blue,,audi r8
-113,31.0,85,2030,yellow,,benz cls
-114,29.5,247,2434,silver,,ford focus active
-115,22.5,193,2354,blue,,toyota vios
-116,25.5,118,2426,blue,,honda civic
-117,26.5,118,2112,blue,,bmw 2-series
-118,31.0,193,2324,white,,audi r8
-119,26.5,250,2124,yellow,,mitsubishi outlander
-120,21.5,100,2215,yellow,,honda odyssey
-121,26.0,242,2623,golden,,honda odyssey
-122,31.0,159,2279,yellow,,nissan grand livina
-123,29.0,202,2908,black,,toyota alphard
-124,22.5,161,2945,red,,mazda 6
-125,29.5,159,2871,golden,,mazda 6
-126,30.0,184,2319,golden,,nissan livina
-127,23.5,184,2235,white,,nissan x-trail
-128,22.0,242,2144,white,,bmw 2-series
-129,21.5,188,2088,black,,mitsubishi outlander
-130,31.0,250,2993,blue,,toyota alphard
-131,29.5,188,2496,red,,toyota camry
-132,27.5,225,2247,black,,benz cls
-133,20.5,85,2433,red,,ford kuga
-134,20.5,109,2238,black,,toyota alphard
-135,27.5,232,2929,red,,honda odyssey
-136,23.5,118,2164,yellow,,toyota alphard
-137,27.5,167,2484,red,,mazda 6
-138,26.0,161,2354,red,,mazda cx-3
-139,27.5,88,2183,blue,,nissan livina
-140,21.0,225,2562,white,,mitsubishi outlander
-141,22.5,232,2665,black,,toyota rav4
-142,20.5,204,2731,yellow,,bmw 4-series gran coupe
-143,21.5,95,2013,golden,,nissan grand livina
-144,28.5,95,2060,yellow,,toyota sienta
-145,20.0,204,2126,red,,toyota alphard
-146,22.0,85,2001,blue,,suzuki vitara
-147,30.0,161,2217,silver,,ford mustang
-148,30.0,184,2428,silver,,toyota sienta
-149,20.5,238,2603,red,,nissan livina
-150,21.0,232,2542,golden,,mazda cx-3
-151,21.5,146,2164,black,,audi q3
-152,22.5,202,2398,white,,nissan march
-153,23.5,85,2297,black,,honda nsx
-154,29.5,85,2505,black,,mazda 3
-155,24.5,238,2423,silver,,toyota alphard
-156,23.5,84,2735,blue,,toyota wish
-157,23.5,247,2547,silver,,honda accord
-158,29.0,225,2053,white,,mitsubishi outlander
-159,20.0,129,2074,red,,bmw 4-series gran coupe
-160,28.5,161,2255,golden,,honda nsx
-161,31.5,202,2958,golden,,benz glc
-162,29.0,152,2236,silver,,honda nsx
-163,29.0,184,2531,white,,mazda cx-3
-164,22.5,85,2552,golden,,toyota c-hr
-165,23.5,129,2944,blue,,toyota vios
-166,25.5,118,2976,white,,mazda cx-3
-167,27.0,161,2821,golden,,ford mustang
-168,26.5,100,2832,black,,suzuki baleno
-169,23.0,195,2415,blue,,suzuki baleno
-170,22.5,232,2628,golden,,ford focus active
-171,22.0,184,2864,black,,honda odyssey
-172,23.5,140,2020,blue,,honda civic
-173,21.5,250,2011,red,,honda hr-v
-174,21.5,193,2865,blue,,nissan x-trail
-175,27.5,161,2528,black,,suzuki baleno
-176,30.0,232,2500,white,,toyota wish
-177,29.5,109,2877,yellow,,suzuki baleno
-178,28.5,161,2685,silver,,audi a5 coupe
-179,26.5,167,2589,silver,,suzuki vitara
-180,22.5,146,2992,black,,nissan march
-181,23.5,250,2130,golden,,bmw 2-series
-182,25.5,250,2334,red,,bmw 4-series gran coupe
-183,25.5,202,2931,blue,,nissan march
-184,20.0,159,2215,black,,benz glc
-185,22.0,85,2723,golden,,mitsubishi zinger
-186,27.0,247,2263,yellow,,ford focus
-187,29.5,188,2283,blue,,ford kuga
-188,26.5,193,2241,black,,ford kuga
-189,22.5,184,2238,silver,,mitsubishi colt plus
-190,24.0,184,2583,silver,,bmw 2-series
-191,28.5,109,2758,silver,,honda odyssey
-192,29.5,220,2964,black,,nissan x-trail
-193,26.0,167,2483,yellow,,honda nsx
-194,22.0,88,2216,blue,,ford focus
-195,22.5,238,2778,blue,,suzuki baleno
-196,31.5,220,2268,silver,,mazda cx-9
-197,20.0,140,2718,black,,ford focus active
-198,27.5,85,2624,yellow,,honda nsx
-199,24.0,93,2406,blue,,honda nsx
-200,20.0,118,2989,golden,,audi r8
-201,23.5,238,2495,white,,bmw 4-series gran coupe
-202,27.5,250,2209,red,,bmw 4-series gran coupe
-203,26.5,232,2627,blue,,ford mustang
-204,21.0,195,2562,yellow,,mazda cx-9
-205,24.5,93,2762,black,,toyota sienta
-206,29.0,220,2677,red,,toyota sienta
-207,26.5,204,2864,silver,,toyota camry
-208,21.5,188,2162,white,,ford focus active
-209,26.5,242,2283,yellow,,toyota rav4
-210,20.0,161,2902,black,,mazda 6
-211,20.5,88,2759,silver,,toyota rav4
-212,30.0,195,2902,red,,bmw 4-series gran coupe
-213,23.5,140,2191,white,,mazda 3
-214,30.0,193,2464,blue,,ford mustang
-215,25.5,232,2467,silver,,ford focus
-216,26.5,202,2377,silver,,bmw 4-series gran coupe
-217,29.0,118,2788,silver,,nissan livina
-218,25.5,159,2942,silver,,audi a5 coupe
-219,28.5,247,2029,yellow,,mazda cx-3
-220,23.5,232,2012,yellow,,mitsubishi colt plus
-221,30.0,247,2804,red,,honda accord
-222,24.0,193,2493,yellow,,audi r8
-223,21.0,100,2789,blue,,toyota vios
-224,31.5,204,2192,black,,audi a5 coupe
-225,22.0,204,2872,black,,suzuki baleno
-226,21.5,88,2832,white,,toyota rav4
-227,24.0,238,2070,red,,audi a5 coupe
-228,24.5,109,2542,blue,,toyota alphard
-229,24.5,188,2226,black,,mazda cx-9
-230,21.0,140,2777,yellow,,mazda 6
-231,28.5,188,2737,white,,benz glc
-232,31.0,220,2796,red,,honda nsx
-233,21.5,195,2065,red,,bmw 4-series gran coupe
-234,23.5,140,2149,golden,,nissan grand livina
-235,24.5,188,2647,black,,toyota wish
-236,26.0,195,2186,silver,,honda accord
-237,29.5,100,2432,black,,honda accord
-238,24.0,220,2328,golden,,mazda cx-3
-239,23.5,202,2684,golden,,mazda 3
-240,29.0,238,2669,black,,toyota c-hr
-241,25.5,85,2096,golden,,toyota sienta
-242,26.0,202,2671,white,,mazda cx-3
-243,27.0,88,2023,red,,audi q3
-244,22.0,247,2869,blue,,toyota camry
-245,22.5,202,2565,black,,mazda 3
-246,29.5,109,2871,yellow,,mitsubishi outlander
-247,24.0,88,2900,black,,audi a5 coupe
-248,21.0,204,2934,black,,mitsubishi outlander
-249,24.5,118,2358,golden,,mazda cx-9
-250,22.5,129,2418,yellow,,suzuki vitara
-251,26.0,161,2932,black,,nissan march
+1,31.5,118,2090,yellow,Ventim,bmw 2-series
+2,26.5,220,2822,golden,Ventim,ford mustang
+3,26.0,100,2687,white,Ventim,mitsubishi zinger
+4,25.5,247,2518,silver,Ventim,toyota camry
+5,28.5,85,2354,yellow,Ventim,mitsubishi colt plus
+6,25.5,204,2315,yellow,Ventim,honda civic
+7,24.5,225,2769,blue,Ventim,ford focus
+8,27.0,95,2652,golden,Ventim,toyota alphard
+9,20.0,167,2666,silver,Ventim,bmw 2-series
+10,21.0,129,2606,white,Ventim,toyota wish
+11,29.5,129,2946,black,Ventim,bmw 2-series
+12,23.0,238,2353,yellow,Ventim,honda nsx
+13,27.0,85,2629,red,Ventim,nissan march
+14,23.5,140,2307,black,Ventim,audi r8
+15,22.5,159,2917,blue,Ventim,ford focus
+16,24.5,85,2176,black,Ventim,benz cls
+17,29.5,238,2429,silver,Ventim,toyota vios
+18,29.0,188,2518,silver,Ventim,toyota camry
+19,22.5,159,2899,red,Ventim,toyota camry
+20,31.0,146,2414,golden,Ventim,nissan livina
+21,24.0,161,2682,white,Ventim,benz glc
+22,28.5,202,2518,silver,Ventim,mazda cx-3
+23,23.0,146,2325,black,Guting,honda hr-v
+24,31.5,88,2047,blue,Guting,ford kuga
+25,20.5,109,2708,white,Guting,ford focus active
+26,24.5,202,2732,black,Guting,mazda 6
+27,27.0,129,2382,blue,Guting,toyota wish
+28,26.0,84,2175,white,Guting,honda accord
+29,20.0,247,2481,blue,Guting,toyota sienta
+30,23.5,247,2406,silver,Guting,ford focus active
+31,25.5,195,2822,silver,Guting,nissan x-trail
+32,31.0,225,2572,red,Guting,honda accord
+33,26.0,118,2430,red,Guting,toyota wish
+34,24.0,84,2395,golden,Guting,suzuki vitara
+35,28.5,161,2191,blue,Guting,suzuki vitara
+36,30.0,159,2468,golden,Guting,audi q3
+37,24.0,146,2746,blue,Guting,ford kuga
+38,25.5,88,2338,silver,Guting,nissan march
+39,26.0,152,2161,golden,Guting,bmw 2-series
+40,21.0,159,2088,white,Guting,toyota wish
+41,22.5,225,2224,yellow,Guting,nissan grand livina
+42,20.0,242,2102,red,Guting,mitsubishi zinger
+43,26.5,188,2454,yellow,Guting,honda nsx
+44,23.0,188,2823,blue,Guting,nissan x-trail
+45,23.5,193,2758,red,Guting,honda odyssey
+46,31.5,204,2074,yellow,Guting,benz glc
+47,23.5,167,2216,black,Guting,honda civic
+48,31.5,159,2648,silver,Guting,mazda cx-3
+49,20.0,242,2428,golden,Guting,honda nsx
+50,21.0,220,2163,red,Guting,ford kuga
+51,20.5,88,2881,golden,Guting,toyota sienta
+52,27.0,167,2463,golden,Guting,honda accord
+53,24.0,232,2384,black,Guting,honda nsx
+54,23.0,220,2188,red,Guting,ford kuga
+55,22.0,88,2958,black,Xinzhang,benz glc
+56,21.0,188,2293,black,Xinzhang,bmw 2-series
+57,29.0,85,2783,black,Xinzhang,toyota camry
+58,29.5,220,2114,yellow,Xinzhang,mitsubishi outlander
+59,24.0,140,2173,blue,Xinzhang,ford focus
+60,26.0,159,2085,white,Xinzhang,honda nsx
+61,20.5,188,2904,black,Xinzhang,honda accord
+62,27.0,88,2600,silver,Xinzhang,suzuki baleno
+63,22.0,250,2412,yellow,Xinzhang,nissan march
+64,29.5,202,2411,white,Xinzhang,audi r8
+65,20.5,167,2889,yellow,Xinzhang,audi r8
+66,20.5,95,2777,black,Xinzhang,mazda cx-3
+67,25.5,204,2747,golden,Xinzhang,mitsubishi colt plus
+68,30.0,88,2769,yellow,Xinzhang,nissan march
+69,22.0,84,2988,golden,Xinzhang,ford focus active
+70,22.5,129,2011,white,Xinzhang,toyota rav4
+71,26.0,250,2371,red,Xinzhang,mazda 3
+72,26.0,220,2760,golden,Xinzhang,toyota sienta
+73,20.0,250,2796,red,Xinzhang,toyota camry
+74,23.5,184,2014,silver,Xinzhang,audi r8
+75,29.5,100,2543,yellow,Xinzhang,mazda cx-3
+76,21.0,152,2937,silver,Xinzhang,honda civic
+77,27.5,118,2905,white,Xinzhang,nissan x-trail
+78,25.5,225,2051,blue,Xinzhang,ford kuga
+79,27.0,250,2938,silver,Xinzhang,audi r8
+80,20.0,129,2561,black,Xinzhang,mitsubishi colt plus
+81,21.0,93,2686,golden,Xinzhang,mitsubishi colt plus
+82,21.0,238,2066,black,Xinzhang,honda hr-v
+83,31.5,204,2139,white,Xinzhang,mazda cx-3
+84,27.5,88,2224,white,Nanjing,toyota c-hr
+85,20.0,188,2849,silver,Nanjing,toyota alphard
+86,27.0,146,2045,silver,Nanjing,ford mustang
+87,20.5,88,2961,white,Nanjing,mazda cx-3
+88,26.5,202,2292,white,Nanjing,nissan grand livina
+89,23.0,161,2941,silver,Nanjing,ford mustang
+90,28.5,100,2699,blue,Nanjing,benz cls
+91,25.5,232,2990,white,Nanjing,honda nsx
+92,25.5,146,2261,yellow,Nanjing,mazda cx-3
+93,20.0,84,2115,white,Nanjing,ford focus active
+94,23.5,93,2215,white,Nanjing,toyota alphard
+95,27.0,184,2490,blue,Nanjing,honda nsx
+96,29.0,88,2198,red,Nanjing,toyota c-hr
+97,29.5,140,2713,blue,Nanjing,mazda 3
+98,31.5,202,2019,yellow,Nanjing,honda civic
+99,30.0,118,2092,golden,Nanjing,nissan march
+100,27.5,238,2580,white,Nanjing,ford focus active
+101,20.5,193,2613,red,Nanjing,mazda cx-9
+102,23.5,93,2406,silver,Nanjing,audi r8
+103,22.0,242,2486,yellow,Nanjing,audi q3
+104,22.0,247,2305,yellow,Nanjing,mazda 6
+105,21.0,202,2944,silver,Nanjing,audi q3
+106,23.5,88,2925,white,Nanjing,suzuki vitara
+107,23.0,118,2140,white,Nanjing,mitsubishi zinger
+108,21.0,118,2520,blue,Nanjing,ford kuga
+109,23.5,250,2302,silver,Nanjing,mazda 3
+110,24.0,140,2441,golden,Nanjing,mazda cx-3
+111,27.0,204,2202,red,Nanjing,ford kuga
+112,30.0,100,2383,blue,Nanjing,audi r8
+113,31.0,85,2030,yellow,Luzhou,benz cls
+114,29.5,247,2434,silver,Luzhou,ford focus active
+115,22.5,193,2354,blue,Luzhou,toyota vios
+116,25.5,118,2426,blue,Luzhou,honda civic
+117,26.5,118,2112,blue,Luzhou,bmw 2-series
+118,31.0,193,2324,white,Luzhou,audi r8
+119,26.5,250,2124,yellow,Luzhou,mitsubishi outlander
+120,21.5,100,2215,yellow,Luzhou,honda odyssey
+121,26.0,242,2623,golden,Luzhou,honda odyssey
+122,31.0,159,2279,yellow,Luzhou,nissan grand livina
+123,29.0,202,2908,black,Luzhou,toyota alphard
+124,22.5,161,2945,red,Luzhou,mazda 6
+125,29.5,159,2871,golden,Luzhou,mazda 6
+126,30.0,184,2319,golden,Luzhou,nissan livina
+127,23.5,184,2235,white,Luzhou,nissan x-trail
+128,22.0,242,2144,white,Luzhou,bmw 2-series
+129,21.5,188,2088,black,Luzhou,mitsubishi outlander
+130,31.0,250,2993,blue,Luzhou,toyota alphard
+131,29.5,188,2496,red,Luzhou,toyota camry
+132,27.5,225,2247,black,Luzhou,benz cls
+133,20.5,85,2433,red,Nangang,ford kuga
+134,20.5,109,2238,black,Nangang,toyota alphard
+135,27.5,232,2929,red,Nangang,honda odyssey
+136,23.5,118,2164,yellow,Nangang,toyota alphard
+137,27.5,167,2484,red,Nangang,mazda 6
+138,26.0,161,2354,red,Nangang,mazda cx-3
+139,27.5,88,2183,blue,Nangang,nissan livina
+140,21.0,225,2562,white,Nangang,mitsubishi outlander
+141,22.5,232,2665,black,Nangang,toyota rav4
+142,20.5,204,2731,yellow,Nangang,bmw 4-series gran coupe
+143,21.5,95,2013,golden,Nangang,nissan grand livina
+144,28.5,95,2060,yellow,Nangang,toyota sienta
+145,20.0,204,2126,red,Nangang,toyota alphard
+146,22.0,85,2001,blue,Nangang,suzuki vitara
+147,30.0,161,2217,silver,Nangang,ford mustang
+148,30.0,184,2428,silver,Nangang,toyota sienta
+149,20.5,238,2603,red,Nangang,nissan livina
+150,21.0,232,2542,golden,Nangang,mazda cx-3
+151,21.5,146,2164,black,Nangang,audi q3
+152,22.5,202,2398,white,Nangang,nissan march
+153,23.5,85,2297,black,Songshan,honda nsx
+154,29.5,85,2505,black,Songshan,mazda 3
+155,24.5,238,2423,silver,Songshan,toyota alphard
+156,23.5,84,2735,blue,Songshan,toyota wish
+157,23.5,247,2547,silver,Songshan,honda accord
+158,29.0,225,2053,white,Songshan,mitsubishi outlander
+159,20.0,129,2074,red,Songshan,bmw 4-series gran coupe
+160,28.5,161,2255,golden,Songshan,honda nsx
+161,31.5,202,2958,golden,Songshan,benz glc
+162,29.0,152,2236,silver,Songshan,honda nsx
+163,29.0,184,2531,white,Songshan,mazda cx-3
+164,22.5,85,2552,golden,Songshan,toyota c-hr
+165,23.5,129,2944,blue,Songshan,toyota vios
+166,25.5,118,2976,white,Songshan,mazda cx-3
+167,27.0,161,2821,golden,Songshan,ford mustang
+168,26.5,100,2832,black,Songshan,suzuki baleno
+169,23.0,195,2415,blue,Songshan,suzuki baleno
+170,22.5,232,2628,golden,Songshan,ford focus active
+171,22.0,184,2864,black,Songshan,honda odyssey
+172,23.5,140,2020,blue,Songshan,honda civic
+173,21.5,250,2011,red,Songshan,honda hr-v
+174,21.5,193,2865,blue,Songshan,nissan x-trail
+175,27.5,161,2528,black,Songshan,suzuki baleno
+176,30.0,232,2500,white,Songshan,toyota wish
+177,29.5,109,2877,yellow,Songshan,suzuki baleno
+178,28.5,161,2685,silver,Songshan,audi a5 coupe
+179,26.5,167,2589,silver,Songshan,suzuki vitara
+180,22.5,146,2992,black,Songshan,nissan march
+181,23.5,250,2130,golden,Xindian,bmw 2-series
+182,25.5,250,2334,red,Xindian,bmw 4-series gran coupe
+183,25.5,202,2931,blue,Xindian,nissan march
+184,20.0,159,2215,black,Xindian,benz glc
+185,22.0,85,2723,golden,Xindian,mitsubishi zinger
+186,27.0,247,2263,yellow,Xindian,ford focus
+187,29.5,188,2283,blue,Xindian,ford kuga
+188,26.5,193,2241,black,Xindian,ford kuga
+189,22.5,184,2238,silver,Xindian,mitsubishi colt plus
+190,24.0,184,2583,silver,Xindian,bmw 2-series
+191,28.5,109,2758,silver,Xindian,honda odyssey
+192,29.5,220,2964,black,Xindian,nissan x-trail
+193,26.0,167,2483,yellow,Xindian,honda nsx
+194,22.0,88,2216,blue,Xindian,ford focus
+195,22.5,238,2778,blue,Xindian,suzuki baleno
+196,31.5,220,2268,silver,Xindian,mazda cx-9
+197,20.0,140,2718,black,Xindian,ford focus active
+198,27.5,85,2624,yellow,Xindian,honda nsx
+199,24.0,93,2406,blue,Xindian,honda nsx
+200,20.0,118,2989,golden,Banqiao,audi r8
+201,23.5,238,2495,white,Banqiao,bmw 4-series gran coupe
+202,27.5,250,2209,red,Banqiao,bmw 4-series gran coupe
+203,26.5,232,2627,blue,Banqiao,ford mustang
+204,21.0,195,2562,yellow,Banqiao,mazda cx-9
+205,24.5,93,2762,black,Banqiao,toyota sienta
+206,29.0,220,2677,red,Banqiao,toyota sienta
+207,26.5,204,2864,silver,Banqiao,toyota camry
+208,21.5,188,2162,white,Banqiao,ford focus active
+209,26.5,242,2283,yellow,Banqiao,toyota rav4
+210,20.0,161,2902,black,Banqiao,mazda 6
+211,20.5,88,2759,silver,Banqiao,toyota rav4
+212,30.0,195,2902,red,Banqiao,bmw 4-series gran coupe
+213,23.5,140,2191,white,Banqiao,mazda 3
+214,30.0,193,2464,blue,Banqiao,ford mustang
+215,25.5,232,2467,silver,Banqiao,ford focus
+216,26.5,202,2377,silver,Banqiao,bmw 4-series gran coupe
+217,29.0,118,2788,silver,Banqiao,nissan livina
+218,25.5,159,2942,silver,Banqiao,audi a5 coupe
+219,28.5,247,2029,yellow,Banqiao,mazda cx-3
+220,23.5,232,2012,yellow,Banqiao,mitsubishi colt plus
+221,30.0,247,2804,red,Banqiao,honda accord
+222,24.0,193,2493,yellow,Banqiao,audi r8
+223,21.0,100,2789,blue,Banqiao,toyota vios
+224,31.5,204,2192,black,Banqiao,audi a5 coupe
+225,22.0,204,2872,black,Banqiao,suzuki baleno
+226,21.5,88,2832,white,Banqiao,toyota rav4
+227,24.0,238,2070,red,Pinglin,audi a5 coupe
+228,24.5,109,2542,blue,Pinglin,toyota alphard
+229,24.5,188,2226,black,Pinglin,mazda cx-9
+230,21.0,140,2777,yellow,Pinglin,mazda 6
+231,28.5,188,2737,white,Pinglin,benz glc
+232,31.0,220,2796,red,Pinglin,honda nsx
+233,21.5,195,2065,red,Pinglin,bmw 4-series gran coupe
+234,23.5,140,2149,golden,Pinglin,nissan grand livina
+235,24.5,188,2647,black,Pinglin,toyota wish
+236,26.0,195,2186,silver,Pinglin,honda accord
+237,29.5,100,2432,black,Pinglin,honda accord
+238,24.0,220,2328,golden,Pinglin,mazda cx-3
+239,23.5,202,2684,golden,Pinglin,mazda 3
+240,29.0,238,2669,black,Pinglin,toyota c-hr
+241,25.5,85,2096,golden,Pinglin,toyota sienta
+242,26.0,202,2671,white,Pinglin,mazda cx-3
+243,27.0,88,2023,red,Pinglin,audi q3
+244,22.0,247,2869,blue,Pinglin,toyota camry
+245,22.5,202,2565,black,Pinglin,mazda 3
+246,29.5,109,2871,yellow,Pinglin,mitsubishi outlander
+247,24.0,88,2900,black,Pinglin,audi a5 coupe
+248,21.0,204,2934,black,Pinglin,mitsubishi outlander
+249,24.5,118,2358,golden,Pinglin,mazda cx-9
+250,22.5,129,2418,yellow,Pinglin,suzuki vitara
+251,26.0,161,2932,black,Pinglin,nissan march
